@@ -1,17 +1,17 @@
-# Memory Game Rules:
+# Hole-in-One Memory Game: Sweeten Your Memory Skills!
 
-- first make the cardImages array with src and respective values
-- shuffleCards() - duplicating, shuffling, and assigning random Id's - add to new game button
-  -set the turns to 0
-- create the Card component using a .map function instead of rewriting code
-- handleClicks
-  -handleChoice
-  -resetTurns (this uses prevTurns!)
-  -useEffect -> this relates to the comparison of two cards being chosen
-- give a match property in cardImages (this uses .map! and prevCards)
-  - update state
-    -check if cards match
-- flipping cards animation/functionality (this uses state!)
-- disable more than 2 cards being flipped over (this uses state!)
-- new game automatically (uses a new useEffect function!)
-- winning end credits!
+Welcome to **Hole-in-One Memory Game** 🍩, a fun and colorful memory game with a delicious donut theme! Test and improve your memory by matching pairs of donuts in this dynamic, online game that’s perfect for players of all ages.
+
+## Features
+
+- **Memory Challenge**: Flip and match donut pairs to test your memory and score points.
+- **Colorful & Fun**: Enjoy a vibrant, donut-themed design that makes playing even sweeter.
+- **Dynamic Gameplay**: Each game is different with randomized tiles, so you'll always face a new challenge.
+
+## Why Hole-in-One Memory Game?
+
+- **Simple & Addictive**: Easy to pick up and play, but challenging enough to keep you coming back.
+- **Colorful & Engaging**: Bright, donut-themed graphics make it a fun and visually appealing experience.
+- **Improve Your Memory**: Sharpen your focus and memory skills while having a great time.
+
+Ready for a memory challenge? Dive into **Hole-in-One Memory Game** and start matching those donuts!
